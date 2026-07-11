@@ -1,8 +1,8 @@
 # Hi, I'm Ibrahim Kamal
 
-AI/ML engineer specializing in multi-agent systems, RAG pipelines, and production LLM infrastructure at enterprise scale. I build systems that don't just work in a demo — I care about what breaks them at scale and how to design around it.
+AI/ML engineer working on multi-agent systems, RAG pipelines, and production LLM infrastructure. I build systems that don't just work in a demo — I care about what breaks them at scale and how to design around it.
 
-Currently a Senior Software Engineer at Oracle, where I lead design on agentic systems for hiring workflows — from multi-agent sourcing and ranking to real-time classification pipelines processing 20K+ messages a day.
+I currently work as a Senior Software Engineer, where I focus on agentic systems in production. Most of my time goes to the unglamorous side of agentic AI: reliability, cost, and the failure modes that only show up once real traffic hits.
 
 ## What I'm focused on
 
