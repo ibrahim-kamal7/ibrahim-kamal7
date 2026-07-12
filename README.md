@@ -21,3 +21,5 @@ I currently work as a Senior Software Engineer, where I focus on agentic systems
 ## Elsewhere
 
 [LinkedIn](https://linkedin.com/in/ibrahim-kamal7) · San Francisco, CA
+
+> **Note:** Rebuilt this profile in July 2026 after losing access to my previous account (2FA lockout). These projects predate it.
